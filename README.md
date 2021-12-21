@@ -154,3 +154,11 @@ elif pilih ==4:
   elif pilih ==5 :
         exit()
 ```
+
+
+#OUTPUT
+
+![Screenshot (78)](https://user-images.githubusercontent.com/92736847/146949586-6633abd7-4fff-4053-93ec-7efc31c9cc37.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/92736847/146949566-6ad6f9c3-cb04-40cd-8b7f-8e11cc70e463.png).
+![Screenshot (80)](https://user-images.githubusercontent.com/92736847/146949622-c5e4e991-4ded-4a84-957c-8109af634696.png)
+
