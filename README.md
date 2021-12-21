@@ -1,4 +1,25 @@
 # labspy08
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th> Nama</th>
+            <th>NIM</th>
+            <th>Kelas</th>
+        </tr>
+        <tr>
+            <td>Putra Megantara</td>
+            <td>312110251</td>
+            <td>TI.21.A.1</td>
+        </tr>
+    </table>
+</body>
+</html>
 
 ## Tugas Praktikum
 - Buatlah program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan;
