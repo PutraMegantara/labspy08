@@ -183,3 +183,4 @@ elif pilih ==4:
 ![Screenshot (79)](https://user-images.githubusercontent.com/92736847/146949566-6ad6f9c3-cb04-40cd-8b7f-8e11cc70e463.png).
 ![Screenshot (80)](https://user-images.githubusercontent.com/92736847/146949622-c5e4e991-4ded-4a84-957c-8109af634696.png)
 
+![png](https://user-images.githubusercontent.com/92736847/146951619-a83767d5-b45b-494e-be5b-42d420a40365.png)
